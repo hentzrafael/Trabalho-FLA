@@ -1,4 +1,4 @@
-#----------------------------------
+
 #Criado por Rafael Augusto Hentz
 #2019
 #IFC Campus Concórdia
